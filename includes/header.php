@@ -41,7 +41,7 @@
                 <li><a href="../index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
                 <li><a href="../empresa.php"><span class="glyphicon glyphicon-briefcase"></span> Empresa</a></li>
                 <li><a href="../produtos.php"><span class="glyphicon glyphicon-folder-close"></span> Produtos</a></li>
-                <li><a href="../servicos.php" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-bullhorn"></span> Serviços</a> </li>
+                <li><a href="../servicos.php"><span class="glyphicon glyphicon-bullhorn"></span> Serviços</a> </li>
                 <li><a href="../contato.php"><span class="glyphicon glyphicon-comment"></span> Contato</a></li>
             </ul>
         </div><!--/.navbar-collapse -->
