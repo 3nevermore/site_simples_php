@@ -38,11 +38,11 @@
         </div>
         <div class="collapse navbar-collapse" id="b-menu-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="../index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
-                <li><a href="../empresa.php"><span class="glyphicon glyphicon-briefcase"></span> Empresa</a></li>
-                <li><a href="../produtos.php"><span class="glyphicon glyphicon-folder-close"></span> Produtos</a></li>
-                <li><a href="../servicos.php"><span class="glyphicon glyphicon-bullhorn"></span> Serviços</a> </li>
-                <li><a href="../contato.php"><span class="glyphicon glyphicon-comment"></span> Contato</a></li>
+                <li><a href="../nav.php?go=home"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+                <li><a href="../nav.php?go=empresa"><span class="glyphicon glyphicon-briefcase"></span> Empresa</a></li>
+                <li><a href="../nav.php?go=produtos"><span class="glyphicon glyphicon-folder-close"></span> Produtos</a></li>
+                <li><a href="../nav.php?go=servicos"><span class="glyphicon glyphicon-bullhorn"></span> Serviços</a> </li>
+                <li><a href="../nav.php?go=contato"><span class="glyphicon glyphicon-comment"></span> Contato</a></li>
             </ul>
         </div><!--/.navbar-collapse -->
     </div>
