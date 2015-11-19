@@ -3,6 +3,7 @@
 ## Nessa fase do projeto você deverá criar um pequeno site em PHP com os seguintes requisitos:
 
 Links de navegação
+
 1.Home
 2.Empresa
 3.Produtos
@@ -15,6 +16,7 @@ No rodapé do site, dever ser exibido "Todos os direitos reservados - <ANO>" - O
 O usuário final não poderá mudar o comportamento da página, ou seja, o sistema tem que tratar os erros no caso de um parâmetro GET ter sido alterado de propósito
 O sistema deve ser MUITO simples, sem utilização de qualquer banco de dados, etc.
 A página de contato deve possuir um formulário de contato com os campos:
+
 1.Nome
 2.Email
 3.Assunto
